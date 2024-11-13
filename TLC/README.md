@@ -12,4 +12,4 @@ Multiple linear regression model is constructed to predict the fares before the 
 
 ### Machine Learning model for predicting whether a customer will give tip
 Finished with original goal, TLC ask Automatidata to further request building machine learning model to predict if the customer will leave the tip or not. After much ethical consideration, Automatidata decided to change the target to predict if the customer will leave a generous tip or not.
-After constructing random forest model and XGBoost model (Machine Learning models), Automatidata concluded that random forest will be a champion model with F1 score metric (0.723) as a main metric.
+After constructing random forest model and XGBoost model (Machine Learning models), Automatidata concluded that random forest will be a champion model with F1 score metric of 0.723 as a main metric.
