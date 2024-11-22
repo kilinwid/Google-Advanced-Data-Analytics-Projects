@@ -4,7 +4,7 @@ The New York City Taxi and Limousine Commission (TLC) ask Automatidata to develo
 
 The data came from TLC, consists of 22,699 trips and 18 features. The features include information on trip duration and destination, vendor used, payment type and payment amount.
 
-## Content
+## Contents
 - Course 1: Project proposal for TLC project.
 - Course 2: Preliminary data inspection.
 - Course 3: Exploratory Data Analysis (EDA).
