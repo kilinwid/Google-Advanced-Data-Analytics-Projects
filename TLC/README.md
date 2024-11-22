@@ -13,7 +13,6 @@ The data came from TLC, consists of 22,699 trips and 18 features. The features i
 - Course 6: Machine learning models (Random Forest and XGBoost).
 
 ## Conclusion
-
 ### Multiple Linear Regression for predicting taxi fares
 Multiple linear regression model is constructed to predict the fares before the ride. This model reach satisfactory results, with predicted vs actual test result reach:
 - Coefficient of Determinaton: 0.868
