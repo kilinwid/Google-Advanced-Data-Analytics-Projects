@@ -4,6 +4,16 @@ The New York City Taxi and Limousine Commission (TLC) ask Automatidata to develo
 
 The data came from TLC, consists of 22,699 trips and 18 features. The features include information on trip duration and destination, vendor used, payment type and payment amount.
 
+## Content
+- Course 1: Project proposal for TLC project.
+- Course 2: Preliminary data inspection.
+- Course 3: Exploratory Data Analysis (EDA).
+- Course 4: Statistical review and A/B testing.
+- Course 5: Multiple linear regression model.
+- Course 6: Machine learning models (Random Forest and XGBoost).
+
+## Conclusion
+
 ### Multiple Linear Regression for predicting taxi fares
 Multiple linear regression model is constructed to predict the fares before the ride. This model reach satisfactory results, with predicted vs actual test result reach:
 - Coefficient of Determinaton: 0.868
