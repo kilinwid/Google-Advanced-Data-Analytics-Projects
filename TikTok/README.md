@@ -13,6 +13,5 @@ The data came from TikTok, consists of 19,382 videos and 12 features. The featur
 - Course 6: Machine learning models (Random Forest and XGBoost).
 
 ## Conclusion
-
 ### Machine Learning models
 After constructing random forest model and XGBoost model (Machine Learning model), the data team concluded that random forest model is the champion model with recall score of 0.99085 as a main metric.
